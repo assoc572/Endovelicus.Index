@@ -1,2 +1,3 @@
-Endovelicus.Index
-- Being made by reuel.
+Endovelicus.Index - "Endex"
+
+Getting worked on by guns.lol/reuel.
